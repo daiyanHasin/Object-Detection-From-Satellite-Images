@@ -24,6 +24,8 @@ Make sure to install the following libraries:
 
 ```bash
 pip install opencv-python matplotlib torch torchvision
+```
+
 
 
 📂 Example Use
@@ -37,7 +39,7 @@ results = model(img)
 results.show()
 
 
-📎 Future Improvements
+##📎 Future Improvements
 Train on custom satellite datasets (e.g., DOTA, xView)
 
 Fine-tune detection models

@@ -39,7 +39,7 @@ results = model(img)
 results.show()
 
 
-##📎 Future Improvements
+## 📎 Future Improvements
 Train on custom satellite datasets (e.g., DOTA, xView)
 
 Fine-tune detection models
@@ -48,7 +48,11 @@ Incorporate geospatial metadata (e.g., bounding box in latitude/longitude)
 
 Deploy as a web-based or API-based service
 
+
 👨‍💻 Author
+
 Hasin Md. Daiyan
+
 Computer Science and Engineering
+
 Ahsanullah University of Science and Technology
